@@ -126,6 +126,3 @@ internship-job-application-tracker/
 
 ## Future improvements
 Login and user accounts, calendar view, CSV export, email reminders, and deployment.
-
-## License
-For learning and portfolio use. Add a license file if you want to specify reuse terms.
